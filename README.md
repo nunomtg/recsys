@@ -1,6 +1,6 @@
 # Matrix Factorization for Recommendation Systems
 
-This project implements ecommendation system from scratch using **pure NumPy**, exploring SVD, NMF (Lee & Seung, NNLS-ALS), and SGD-based approaches. The system predicts user ratings using the **MovieLens dataset** and also visualizes clusters in the latent space.
+This project implements some recommendation systems from scratch using **pure NumPy**, exploring SVD, NMF (Lee & Seung, NNLS-ALS), and SGD-based approaches. The system predicts user ratings using the **MovieLens dataset** and also visualizes clusters in the latent space.
 
 ---
 
